@@ -1,2 +1,2 @@
 # webpack
-A  webpack + react template
+A webpack + react template
