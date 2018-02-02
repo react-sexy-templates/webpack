@@ -1,9 +1,11 @@
 import React, { Component } from 'react'
 
+import './app.css'
+
 class App extends Component {
   render() {
     return (
-      <div>hello, react-sexy</div>
+      <div className="app">hello, react-sexy</div>
     )
   }
 }
